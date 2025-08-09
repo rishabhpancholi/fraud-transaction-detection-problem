@@ -1,4 +1,4 @@
-# Fraud Detection Problem
+# Fraudulent Transaction Detection Problem
 
 In this project, **Machine Learning** is applied on a dummy transaction dataset to detect whether a transaction is fraudulent or not.
 
